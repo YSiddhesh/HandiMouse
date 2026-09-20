@@ -1,0 +1,13 @@
+pip install numpy==1.26.4
+pip install opencv-python==4.9.0.80
+pip install pyautogui==0.9.54
+pip install protobuf==4.25.3
+pip install mediapipe==0.10.14
+
+
+Running:
+1. .\venv\Scripts\activate
+2. Python: Select Interpreter
+3. .\venv\Scripts\python.exe
+
+and run
